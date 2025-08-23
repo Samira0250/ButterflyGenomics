@@ -66,5 +66,3 @@ This project explores the genome of a butterfly sample (SRR25297534) using a com
 ## Author
 Samira S.
 
-## License
-MIT License
