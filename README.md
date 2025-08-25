@@ -5,7 +5,7 @@ This project explores the genome of a butterfly sample (SRR25297534) using a com
 - NCBI SRA Accession: [SRR25297534](https://www.ncbi.nlm.nih.gov/sra/?term=SRR25297534)
 - Paired-end Illumina sequencing reads
 
-## 🔧 Methods
+## Methods
 ### 1. Quality Control
 - Tool: FastQC
 - Output: HTML and summary reports for raw and trimmed reads
